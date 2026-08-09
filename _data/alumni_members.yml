@@ -7,14 +7,7 @@
 #   number_educ: 0
 #   education1: 
 
-- name: 傅冠夷蛮
-  photo: fu.png
-  position: 博士研究生, 2021级
-  topics: 高光谱图像去噪；多模态大模型
-  undergraduate: 西北农林大学生物工程
-  publications: 国家公派留学基金; 国家奖学金; IGARSS 2021; TGRS 2022; TGRS 2024; TGRS 2024;
-  number_educ: 0
-  education1:
+
 
 - name: 刘正宇
   photo: liu.jpg
@@ -30,7 +23,7 @@
   position: 博士研究生, 2021级
   topics: 高光谱数据融合
   undergraduate: 吉林大学
-  publications: 
+  publications: JSTARS 2026(在审)
   number_educ: 0
   education1:  
 
@@ -54,30 +47,14 @@
 #   number_educ: 0
 #   education1:  
 
-- name: 吴振兴
-  photo: wu.jpg
-  position: 硕士研究生, 2023级
-  topics: 高光谱目标跟踪
-  undergraduate: 南京理工大学数学系
-  publications: TIP 2025
-  number_educ: 0
-  education1:  
 
-- name: 叶瑾
-  photo: ye.jpg
-  position: 硕士研究生, 2023级
-  topics: 高光谱底层图像处理
-  undergraduate: 南京理工大学软件工程
-  publications: 国家奖学金*2; TGRS 2024; TGRS 2025
-  number_educ: 0
-  education1: 
 
 - name: 於钱力
   photo: yu.jpg
   position: 硕士研究生, 2024级
   topics: 高光谱目标跟踪
   undergraduate: 南京理工大学软件工程
-  publications: DIGIX 2023江苏省三等奖; DIGIX 2024全国二等奖
+  publications: DIGIX 2023江苏省三等奖; DIGIX 2024全国二等奖; TPAMI 2026(在审)
   number_educ: 0
   education1: 
 
@@ -95,7 +72,7 @@
   position: 硕士研究生, 2024级(士兵计划)
   topics: 遥感变化检测
   undergraduate: 常熟理工学院计算机
-  publications: DIGIX 2024全国二等奖； PR 2025(在投)
+  publications: DIGIX 2024全国二等奖； PR 2026
   number_educ: 0
   education1:  
 
@@ -104,7 +81,7 @@
   position: 硕士研究生, 2024级
   topics: 高光谱目标跟踪
   undergraduate: 长沙理工大学通信工程
-  publications: DIGIX 2024全国二等奖
+  publications: DIGIX 2024全国二等奖; ISPRS 2026(在审)
   number_educ: 0
   education1:  
 
@@ -121,7 +98,7 @@
   position: 硕士研究生, 2025级
   topics: 跨模态变化检测
   undergraduate: 南京理工大学计算机
-  publications: 
+  publications: AAAI 2027(在审)
   number_educ: 0
   education1: 
 - name: 莫振荣
@@ -147,7 +124,7 @@
   position: 硕士研究生, 2026级
   topics: 高光谱底层图像处理
   undergraduate: 南京理工大学软件工程
-  publications: TGRS 2025
+  publications: TGRS 2025;TGRS 2026(在审)
   number_educ: 0
   education1: 
 
